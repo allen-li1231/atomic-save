@@ -1,0 +1,12 @@
+language: python
+php:
+  - 3.5
+  - 3.6
+  - 3.7
+  - 3.9
+
+before_script:
+  - pip install --no-input --no-cache-dir -r requirements.txt
+
+script:
+  - python -m unit_test.py
