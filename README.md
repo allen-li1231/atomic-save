@@ -1,5 +1,6 @@
 # atomic-save
-
+[![Build Status](https://app.travis-ci.com/allen-li1231/atomic-save.svg?branch=main)](https://app.travis-ci.com/allen-li1231/atomic-save)
+![Conda - License](https://img.shields.io/conda/l/conda-forge/setuptools)
 ___
 ## This repo is for personal answers to ANI Python Take-home Test 1:
 >1.	Implement a decorator for atomic writing.
@@ -11,3 +12,4 @@ ___
 
 ### Please find code related to task 1 and 3 in [decorator.py](/decorator.py), code related to task 2 in [unit_test.py](/unit_test.py)
 ### With this repo and Travis badge shown on your screen, task 4 and 5 are completed.
+
